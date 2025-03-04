@@ -130,7 +130,7 @@ This project is a Node.js-based authentication system using Express, MongoDB, an
   }
   ```
 
-  ![User Registration](backend/screenshots/register.png)
+  ![User Registration](backend/screenshots/Register.png)
 
 #### Login User
 
@@ -143,7 +143,7 @@ This project is a Node.js-based authentication system using Express, MongoDB, an
     "password": "securepassword"
   }
   ```
-![User Login](backend/screenshots/login.png)
+![User Login](backend/screenshots/Login.png)
 
 #### Password Reset Request
 
@@ -155,7 +155,7 @@ This project is a Node.js-based authentication system using Express, MongoDB, an
     "email": "johndoe@example.com"
   }
   ```
-![Password Reset](backend/screenshots/reset-password.png)
+![Password Reset](backend/screenshots/Reset_password.png)
 
 #### Reset Password
 
