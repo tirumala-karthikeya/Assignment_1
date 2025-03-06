@@ -114,7 +114,7 @@ This is a Node.js and Express-based authentication system with JWT-based passwor
 
 ### Email
 
-![Email Page](backend/screenshots/Request.png)
+![Email Page](backend/screenshots/Reset.png)
 
 ### Questions
 ![Questions Page](backend/screenshots/Questions.png)
